@@ -1,1 +1,1 @@
-Here is my Project Portfolio(Cueerntly under update,Not up to date)
+Here is my Project Portfolio(currently under update,Not up to date)
