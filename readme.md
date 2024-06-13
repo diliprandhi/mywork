@@ -31,7 +31,7 @@ This project entails developing a machine learning model to detect fraudulent fi
 **Technologies:**
 - Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-[View Project](link_to_project)
+[View Project](https://github.com/diliprandhi/mywork/tree/a428f9c05761f71612cc6379c6b214fab2c97a08/Fraud%20Detection%20Model#fraud-detection-model)
 
 ---
 
@@ -49,7 +49,7 @@ This project involves developing a content-based movie recommendation system. By
 **Technologies:**
 - Python, Pandas, NumPy, Scikit-learn
 
-[View Project](link_to_project)
+[View Project](https://github.com/diliprandhi/mywork/tree/a428f9c05761f71612cc6379c6b214fab2c97a08/Movie%20Recommendation%20Engine%20(Content%20Based))
 
 ---
 
@@ -67,7 +67,7 @@ This project focuses on developing a machine learning model to classify handwrit
 **Technologies:**
 - Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-[View Project](link_to_project)
+[View Project](https://github.com/diliprandhi/mywork/tree/a428f9c05761f71612cc6379c6b214fab2c97a08/Digit%20Classification)
 
 ---
 
@@ -85,7 +85,7 @@ This project focuses on predicting diabetes in patients using machine learning m
 **Technologies:**
 - Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-[View Project](link_to_project)
+[View Project](https://github.com/diliprandhi/mywork/tree/a428f9c05761f71612cc6379c6b214fab2c97a08/Daibetes%20Prediction)
 
 ---
 
