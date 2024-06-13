@@ -53,6 +53,23 @@ This project involves developing a content-based movie recommendation system. By
 
 ---
 
+### Digit Classification
+
+**Project Overview:**
+This project focuses on developing a machine learning model to classify handwritten digits from the MNIST dataset. It uses a Support Vector Machine (SVM) algorithm to achieve high accuracy in digit recognition.
+
+**Key Features:**
+Data preprocessing and normalization
+Implementation of SVM for digit classification
+Evaluation of model performance
+Visualization of digit samples and classification results
+
+**Technologies:**
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+[View Project](link_to_project)
+
+---
+
 ### Diabetes Prediction Model
 
 **Project Overview:**
@@ -72,6 +89,7 @@ This project focuses on predicting diabetes in patients using machine learning m
 ---
 
 Explore More and Connect
+
 Thank you for visiting my portfolio! I invite you to dive deeper into my projects to see the detailed work behind each one. If you have any questions, feedback, or collaboration ideas, feel free to reach out.
 
 ## Let's Connect!🌐
