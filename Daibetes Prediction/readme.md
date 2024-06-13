@@ -4,7 +4,7 @@
 The Diabetes Prediction Model project aims to predict the likelihood of diabetes in patients based on various health metrics. Using machine learning techniques, this project helps in early diagnosis and effective management of diabetes.
 
 ## Detailed Description:
-The project utilizes the Pima Indians Diabetes Dataset and involves multiple steps, from data preprocessing to model evaluation. Various machine learning algorithms are applied and compared to determine the most accurate predictor.
+The project utilizes the Pima Indians Diabetes Dataset and involves multiple steps, from data preprocessing to model evaluation.
 
 ### Features:
 - Data cleaning and normalization to prepare the dataset for modeling.
