@@ -64,5 +64,7 @@ Thank you for visiting my portfolio! I invite you to dive deeper into my project
 Let's connect:
 
 [LinkedIn](https://www.linkedin.com/in/dilip-randhi/)
+
 [Email](randhidilip@gmail.com) - randhidilip@gmail.com
+
 Looking forward to connecting with you!
