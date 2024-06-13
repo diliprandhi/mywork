@@ -1,12 +1,12 @@
-# Welcome to My Data Science and Machine Learning Portfolio🚀📊🤖📈
+## Welcome to My Data Science and Machine Learning Portfolio🚀📊🤖📈
 ---
-## Hi there! 👋
+### Hi there! 👋
 
 Welcome to my GitHub profile! I'm an aspiring Data Scientist with a strong foundation in Python, Machine Learning, Statistical Analysis, and Data Visualization. Here, you'll find a collection of my data science and machine learning projects. Each project showcases my skills in data analysis, preprocessing, modeling, and evaluation. Feel free to explore my repositories and connect with me if you have any questions or collaboration ideas!
 
 ---
 
-## Skills & Expertise🛠️
+### Skills & Expertise🛠️
 
 - **Programming Languages:** Python, SQL
 - **Data Science:** Statistics, Data Wrangling, Data Cleaning, Exploratory Data Analysis (EDA), Machine Learning, Deep Learning, Natural Language Processing (NLP)
