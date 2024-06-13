@@ -28,4 +28,4 @@ This project involves analyzing the stock prices of major Indian banking compani
 - Visualize the correlation matrix using heatmaps to identify any strong or weak correlations among the stocks.
 
 ### Usage:
-Clone the repository, install the necessary libraries, and execute the script to input patient data and receive a diabetes risk prediction.
+Clone the repository, install the necessary libraries, and execute the script to input patient data and receive a banking stocks analysis.
