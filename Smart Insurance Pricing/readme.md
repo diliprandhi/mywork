@@ -36,4 +36,4 @@ This project involves developing a model to predict insurance prices using advan
 - Compare the results of different models to identify the best-performing one for predicting insurance expenses.
 
 ### Usage:
-Clone the repository, install the necessary libraries, and execute the script to input patient data and receive a smart insurance pricing.
+Clone the repository, install the necessary libraries, and execute the script to input customer attributes and receive a expenses of the the customer so that we can give smart insurance pricing according to theie expenses.
