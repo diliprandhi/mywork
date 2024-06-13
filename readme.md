@@ -59,13 +59,14 @@ This project involves developing a content-based movie recommendation system. By
 This project focuses on developing a machine learning model to classify handwritten digits from the MNIST dataset. It uses a Support Vector Machine (SVM) algorithm to achieve high accuracy in digit recognition.
 
 **Key Features:**
-Data preprocessing and normalization
-Implementation of SVM for digit classification
-Evaluation of model performance
-Visualization of digit samples and classification results
+- Data preprocessing and normalization
+- Implementation of SVM for digit classification
+- Evaluation of model performance
+- Visualization of digit samples and classification results
 
 **Technologies:**
-Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
 [View Project](link_to_project)
 
 ---
