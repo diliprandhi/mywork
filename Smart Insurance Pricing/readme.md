@@ -34,3 +34,6 @@ This project involves developing a model to predict insurance prices using advan
 **Evaluation:**
 - Assess the performance of each model using metrics such as R-squared, Mean Absolute Error (MAE), Mean Squared Error (MSE), and Root Mean Squared Error (RMSE).
 - Compare the results of different models to identify the best-performing one for predicting insurance expenses.
+
+### Usage:
+Clone the repository, install the necessary libraries, and execute the script to input patient data and receive a smart insurance pricing.
