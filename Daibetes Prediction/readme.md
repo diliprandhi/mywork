@@ -29,8 +29,5 @@ The project utilizes the Pima Indians Diabetes Database and involves multiple st
 - Scikit-learn: For implementing and evaluating machine learning models.
 - Matplotlib & Seaborn: For data visualization.
 
-### Usage Instructions:
-To explore this project, clone the repository from GitHub, install the necessary libraries as listed in the requirements.txt file, and run the provided script to input patient data and receive diabetes risk predictions.
-
 ### Usage:
 Clone the repository, install the necessary libraries, and execute the script to input patient data and receive a diabetes risk prediction.
