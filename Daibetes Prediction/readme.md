@@ -4,30 +4,18 @@
 The Diabetes Prediction Model project aims to predict the likelihood of diabetes in patients based on various health metrics. Using machine learning techniques, this project helps in early diagnosis and effective management of diabetes.
 
 ## Detailed Description:
-The project utilizes the Pima Indians Diabetes Database and involves multiple steps, from data preprocessing to model evaluation. Various machine learning algorithms are applied and compared to determine the most accurate predictor.
+The project utilizes the Pima Indians Diabetes Dataset and involves multiple steps, from data preprocessing to model evaluation. Various machine learning algorithms are applied and compared to determine the most accurate predictor.
 
-### Key Components:
-
-**Data Preprocessing:**
-- Cleaned the dataset to handle missing values and outliers.
-- Normalized features to ensure they are on a comparable scale.
-
-**Feature Selection:**
-- Selected relevant health metrics, including glucose levels, BMI, age, etc.
-
-**Machine Learning Models:**
-- Implemented and compared multiple algorithms such as Logistic Regression, Decision Trees, and Random Forests.
-- Evaluated model performance using accuracy, precision, recall, and F1-score.
-
-**User Interface:**
-- Developed an interface for inputting patient data and receiving diabetes risk predictions.
+### Features:
+- Data cleaning and normalization to prepare the dataset for modeling.
+- Implementation of multiple machine learning algorithms, including Logistic Regression, Decision Trees, and Random Forests.
+- Evaluation and comparison of model performance using metrics like accuracy, precision, recall, and F1-score.
+- A user-friendly interface for inputting patient data and receiving diabetes risk predictions.
 
 ### Technologies Used:
-- Python: For data analysis and model building.
-- Pandas: For data manipulation and cleaning.
-- NumPy: For numerical operations.
-- Scikit-learn: For implementing and evaluating machine learning models.
-- Matplotlib & Seaborn: For data visualization.
+- Python (Pandas, NumPy)
+- Scikit-learn for model building and evaluation
+- Matplotlib and Seaborn for data visualization
 
 ### Usage:
 Clone the repository, install the necessary libraries, and execute the script to input patient data and receive a diabetes risk prediction.
