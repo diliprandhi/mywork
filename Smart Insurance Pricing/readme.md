@@ -5,13 +5,13 @@ This project involves developing a model to predict insurance prices using advan
 
 ### Technologies Used:
 
-- Python Libraries: NumPy, Pandas, Seaborn, Matplotlib
-- Machine Learning Techniques: Simple Linear Regression (SLR), Multiple Linear Regression (MLR), Polynomial Regression, Lasso Regression, Ridge Regression, ElasticNet Regression
+- **Python Libraries:** NumPy, Pandas, Seaborn, Matplotlib
+- **Machine Learning Techniques:** Simple Linear Regression (SLR), Multiple Linear Regression (MLR), Polynomial Regression, Lasso Regression, Ridge Regression, ElasticNet Regression
 
 ### Project Breakdown:
 
 **Business Problem Understanding:**
-- **Define the objective:** Develop a predictive model for insurance pricing that considers various customer attributes such as age, sex, BMI, number of children, smoking status, and region.
+- Define the objective of the analysis, which is to predict insurance expenses based on available features such as age, sex, BMI, number of children, smoking status, and region.
 
 **Data Understanding:**
 - Collect and explore the insurance dataset containing 1,338 records with features like age, sex, BMI, children, smoker, region, and expenses.
