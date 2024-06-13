@@ -1,6 +1,10 @@
 # Fraud Detection Model
+
 ## Summary:
-The Fraud Detection Model is an advanced machine learning project designed to identify potentially fraudulent transactions in financial data. Leveraging a dataset of transactions, the model uses various techniques to preprocess the data and apply sophisticated algorithms to detect anomalies indicative of fraud.
+The Fraud Detection Model project is designed to identify potentially fraudulent financial transactions using machine learning techniques. This project is critical for detecting and preventing fraud in financial data.
+
+## Detailed Description:
+The project processes a large dataset of financial transactions and employs various techniques to identify anomalies that could indicate fraud. The process includes data preprocessing, feature engineering, and the application of machine learning algorithm.
 
 ### Features:
 
